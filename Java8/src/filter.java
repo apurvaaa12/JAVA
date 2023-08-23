@@ -10,6 +10,8 @@ public class filter {
 //        names.stream()
 //                .filter(name->!name.equals("elephant"))
 //                .forEach(name->System.out.println(name));
+        names.stream().map(u->u.replace("Apurva","apu")).forEach(System.out::println);
+
 
         names.stream().filter(name->names.contains("Jayesh"))
                 .forEach(System.out::println);

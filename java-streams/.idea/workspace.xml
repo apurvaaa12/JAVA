@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3afe33dd-427b-4a34-98ac-0414abba399f" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2NMVk5qoY4pV6BGFhiTVXJjhAHF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Apurva/Desktop/JAVA/java-streams"
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.StatisticsWithStreams">
+    <configuration name="DistinctAndSets" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="streams" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.amigoscode.examples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.amigoscode.examples" />
+      <option name="MAIN_CLASS_NAME" value="com.amigoscode.examples.DistinctAndSets" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Filtering" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="streams" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.amigoscode.examples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.amigoscode.examples" />
+      <option name="MAIN_CLASS_NAME" value="com.amigoscode.examples.Filtering" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GettingStarted" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="streams" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.amigoscode.examples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.amigoscode.examples" />
+      <option name="MAIN_CLASS_NAME" value="com.amigoscode.examples.GettingStarted" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MinMax" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="streams" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.amigoscode.examples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.amigoscode.examples" />
+      <option name="MAIN_CLASS_NAME" value="com.amigoscode.examples.MinMax" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StatisticsWithStreams" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="streams" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.amigoscode.examples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.amigoscode.examples" />
+      <option name="MAIN_CLASS_NAME" value="com.amigoscode.examples.StatisticsWithStreams" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.StatisticsWithStreams" />
+        <item itemvalue="JUnit.MinMax" />
+        <item itemvalue="JUnit.DistinctAndSets" />
+        <item itemvalue="JUnit.Filtering" />
+        <item itemvalue="JUnit.GettingStarted" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3afe33dd-427b-4a34-98ac-0414abba399f" name="Changes" comment="" />
+      <created>1679474079964</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679474079964</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
